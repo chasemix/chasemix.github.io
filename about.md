@@ -5,16 +5,14 @@ permalink: /about/
 ---
 
 ### Who Am I?
-I am a 20-something Systems Engineer who is always learning new things.
+I am a 20-something GIS Technician and former band geek with an interest in maps and a passion for music.
 
-General public can use my blog for interesting tips and tricks to help their computer/physical productivity.
+I'm using github to get into coding. Currently a beginner. Languages I'm looking to learn are Python, JavaScript, and SQL. 
 
-Tech/Engineering beginners can use it to help guide themselves towards a career in systems/software/computer/gadget development and learn from my mistakes.
 
-Employers/potential research partners can use it to browse my work and determine if I'm what they're looking for.
 
-I also talk about generally-tame subjects with a light/humorous tone.
+
 
 ### Contact me
 
-[acton.nicolas@gmail.com](mailto:acton.nicolas@gmail.com)
+[taylo3ca@gmail.com](mailto:taylo3ca@gmail.com)
